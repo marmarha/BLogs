@@ -1,2 +1,2 @@
-![image](https://github.com/user-attachments/assets/2a38535f-36f1-496b-b0d5-60a9e6815e06)# BLogs
-tool for loges and cheker
+This is a logs tool that extracts all your discord tokens or cc and checks the tokens. It is v1.1 and will be developed in the future.
+this is my chanel https://t.me/Lion_Craking If you want a question @MarmarCom1
